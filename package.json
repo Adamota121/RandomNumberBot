@@ -1,0 +1,9 @@
+{
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "mysql2": "^3.9.1",
+    "node-telegram-bot-api": "^0.64.0",
+    "sequelize": "^6.36.0"
+  }
+}
